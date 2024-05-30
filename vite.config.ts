@@ -11,7 +11,7 @@ import VueSetupte from "vite-plugin-vue-setup-extend"
 export default defineConfig({
   plugins: [
     vue(),
-    //导入插件
+    //导入插件1
     VueSetupte()
   ],
   resolve: {
